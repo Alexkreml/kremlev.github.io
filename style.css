@@ -1,0 +1,211 @@
+	@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+	.cont{
+		width: 1024px;	
+		padding: 26px;
+		margin: auto;
+		position: relative;
+	}
+
+	body{
+		font-family: "Poppins", serif;
+		background-image: url("kot-kotenok-seryy-belyy-fon\ \(1\).jpg");
+		background-repeat: no-repeat;
+	}
+
+	.c{
+		color: rgb(255, 230, 0);
+		font-weight: 600;
+		font-size: 25px;	
+	}
+
+	.b{
+		color: rgb(100, 100, 100);
+		padding-top: 5px;
+		width: 250px;
+		text-align: center;
+		position: absolute;
+		right: 10px;
+	}
+
+	a{
+		text-decoration: none;
+	}
+
+	.f{
+		background-color: rgb(0, 0, 0);
+		color: white;
+		border-radius: 16px;
+		padding: 16px 50px;
+		text-decoration: none;
+		margin: 16px;
+		text-align: center;
+	}
+
+	.g{
+		color:#FFFFFF;
+	}
+
+	.gg{
+		color: rgb(255, 255, 255);
+		padding: 10px;
+		
+	}
+
+
+	.ggg{
+		color: rgb(255, 251, 0);
+	}
+
+	.ff{
+		border-radius: 16px;
+		padding: 16px 50px;
+		text-decoration: none;
+		margin: 16px;
+		border: 1px solid rgb(255, 238, 0);
+		box-sizing: border-box;
+		text-align: center;
+	}
+
+	.gggg{
+		color: rgb(255, 255, 255);
+	}
+
+	.h{
+		background-color: rgb(0, 0, 0);
+		color: white;
+		padding: 5px;
+		border-radius: 9px;
+		height: 25px;
+	}
+
+	.t{
+		background-color: #000000a9;
+		text-align: center;
+		font-size: 15px;
+		border-radius: 16px;
+	}
+
+	i{
+		color: rgb(255, 255, 255);
+		font-size: 35px;
+	}
+	a
+	.tt{
+		margin-top: 30px;
+		margin-bottom: 10px;
+	}
+
+	.ttt{
+		padding-left: 5px;
+		color: rgb(255, 255, 255);
+	}
+
+	.cont h2{
+		color: rgb(255, 238, 0);
+		width: 100%;
+	}
+
+	.flex{
+		display: flex;
+	}
+
+	.block{
+		display: block;
+	}
+
+	.imgvindex{
+		width: 770px;
+		height: 600px;
+		border-radius: 16px;
+		margin-left: 5px;
+	}
+
+	.ww{
+		background-color: rgba(0, 0, 0, 0.671);
+		border-radius: 16px;
+		margin-bottom: 25px;
+	}
+
+	.w{
+		border-radius: 16px;
+		margin-bottom: 25px;
+		background-color: rgb(0, 0, 0);
+		border: 1px solid rgb(255, 238, 0);
+	}
+
+	.dont_tach{
+		color: red;
+		text-decoration: none;
+		background-color: rgb(59, 59, 59);
+		border-radius: 10px;
+		padding: 0px 5px;
+	}
+
+	.cont_p{
+		width: 800px;	
+		padding: 26px;
+		margin: auto;
+		position: relative;
+		background-color: rgba(0, 0, 0, 0.74);
+		border: 1px solid rgb(255, 255, 0);
+		border-radius: 16px;
+		color: #FFFFFF;
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.ru{
+		font-family: "Oswald", serif;
+	}
+
+	.l{
+		color: #FFFFFF;
+	}
+
+	.center{
+		text-align: center;
+		background-color: rgba(0, 0, 0, 0.671);
+		color: yellow;
+		border-radius: 16px;
+		margin-top: 15px;
+	}
+
+	.u{
+		margin-bottom: 20px;
+		text-align: center;
+	}
+
+	.dom{
+		width: 800px;
+	}
+
+	.i{
+		color: yellow;
+	}
+
+	.ii{
+		color: yellow;
+		margin-right: 10px;
+	}
+
+	.cc{
+		text-align: center;
+		margin-top: 20px	;
+	}
+
+	.m{
+		padding: 10px;
+		background-color: black;
+		border: 1px solid yellow;
+		border-radius: 16px;
+	}
+
+	.mm{
+		margin-right: 30px;
+	}
+
+	.j{
+		margin: 20px 0px;
+	}

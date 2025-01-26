@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');	
+
+body{
+	background-color: #c9baa6;
+	font-family: "Pangolin", serif;
+}
+
+header{
+	background-color: #aa183c;
+	border-top-left-radius: 16px;
+	border-top-right-radius: 16px;
+	width: 768px;
+	margin: 32px auto 0 auto;
+	font-family: "Mountains of Christmas", serif;
+	text-align: center;
+	color: white;
+	font-size: 64px;
+	text-transform: uppercase;
+	padding: 32px;
+}
+
+main{
+	background-color: #c33155;
+	border-bottom-left-radius: 16px;
+	border-bottom-right-radius: 16px;
+	margin: 0 auto;
+	width: 768px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 16px;
+	transition: 0.25s;
+	padding: 32px;
+}
+
+footer{
+	text-align: center;
+	font-family: "Mountains of Christmas", serif;
+	margin: 16px;
+}
+
+main .card{
+	border-radius: 16px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #fff;
+	height: 200px;
+	width: 22%;
+	font-family: "Pangolin", serif;
+	color: #c33155;
+	flex-direction: column;
+	border: 2px solid #fff;
+}
+
+main .icon{
+	font-size: 64px;
+	padding: 16px;
+	text-align: center;
+}
+
+main .desc{
+	font-size: 20px;
+	text-align: center;
+	padding: 16px;
+}
+
+main .card:hover{
+	background-color: #c33155;
+	color: #fff;
+}
+
+.ggg{
+	color: rgb(255, 251, 0);
+}
+
+.gg{
+	color: rgb(255, 255, 255);
+	padding: 10px;
+	
+}
+
+.cont{
+	width: 1024px;	
+	padding: 26px;
+	margin: auto;
+	position: relative;
+	font-family: "Poppins", serif;
+}
+
+.flex{
+	display: flex;
+}
+
+.w{
+	border-radius: 16px;
+	margin-bottom: 25px;
+	background-color: rgb(0, 0, 0);
+	border: 1px solid rgb(255, 238, 0);
+}
+
+.c{
+	color: rgb(255, 230, 0);
+	font-weight: 600;
+	font-size: 25px;	
+}
+
+.b{
+	color: rgb(100, 100, 100);
+	padding-top: 5px;
+	width: 250px;
+	text-align: center;
+	position: absolute;
+	right: 10px;
+}
+
+a{
+	text-decoration: none;
+}
